@@ -6,3 +6,4 @@ streamlit-folium
 gtts
 fpdf
 pillow
+streamlit-js-eval
