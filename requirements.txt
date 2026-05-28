@@ -1,0 +1,8 @@
+streamlit
+google-genai
+requests
+folium
+streamlit-folium
+gtts
+fpdf
+pillow
